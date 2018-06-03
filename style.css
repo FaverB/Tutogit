@@ -1,0 +1,52 @@
+body{
+	background-color: #ccf;
+	letter-spacing: .1em;
+}
+
+p{
+	background-color: green;
+	border: 1px; solid red;
+	color: yellow;
+	font-size: 150%;
+	font-style: italic;
+	padding: 1em;	
+}
+
+#style-id{	
+	background-color: orange;
+	border: 1px; solid red;
+	color: yellow;
+	font-size: 150%;
+	font-style: italic;
+	padding: 1em;
+}
+
+.maclasse{	
+	background-color: green;
+	border: 1px; solid red;
+	color: yellow;
+	font-size: 150%;
+	font-style: italic;
+	padding: 1em;
+}
+
+.propriete_float img{
+	margin: 0 0 1em 1em;
+	float: right;
+}
+
+img {
+	max-width: 100%;
+}
+
+.content{
+	color: black;
+	background-color: #ccf;
+	letter-spacing: .1em;
+	max-width: 600%;
+	margin: 1em auto;
+}
+
+header{
+	background-color: 
+}
